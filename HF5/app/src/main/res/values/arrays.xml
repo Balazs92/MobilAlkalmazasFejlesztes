@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listView">
+        <item>Paradicsom</item>
+        <item>Korte</item>
+        <item>Szilva</item>
+        <item>Barack</item>
+        <item>Dio</item>
+        <item>Alma</item>
+    </string-array>
+</resources>
