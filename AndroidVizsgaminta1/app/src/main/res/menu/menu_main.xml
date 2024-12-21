@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_save"
+        android:title="Save"
+        android:icon="@android:drawable/ic_menu_save"
+        android:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_reset"
+        android:title="Reset"
+        android:icon="@android:drawable/ic_menu_revert"
+        android:showAsAction="ifRoom" />
+</menu>
